@@ -1,0 +1,2 @@
+window.calculator = new CalcController();
+// "window." é um atributo, ou seja, estou atribuindo minha variavel calculator à "window." assim ela se torna global, isso se você quiser que ela seja global.
